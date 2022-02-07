@@ -10,6 +10,6 @@ class Trial extends StatefulWidget {
 class _TrialState extends State<Trial> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold();
   }
 }
